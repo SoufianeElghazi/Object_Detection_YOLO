@@ -1,0 +1,6 @@
+train: /kaggle/working/output/train
+val: /kaggle/working/output/val
+test: /kaggle/working/output/test
+
+nc: 2
+names: ['crop','weed']
